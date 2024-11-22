@@ -1,5 +1,4 @@
-# 💫 About Me:
-Développer Full-Stack
+# Développer Full-Stack
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/https://discord.gg/tYGzYFWx](https://discord.gg/8W27YhF9bj)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27531705) 
