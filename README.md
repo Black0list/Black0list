@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hadoui%20Abdelkebir&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=200&section=header&text=Hadoui%20Abdelkebir&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> 
 </p>
 
 <div align="center">
@@ -45,5 +45,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Black0list&icon=0&color=2)](https://visitcount.itsvg.in)
+
+---
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg" alt="Snake animation" />
+  
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=200&section=footer&text=&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> 
+</p>
 
 </div>
